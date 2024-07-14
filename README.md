@@ -1,6 +1,6 @@
 # Conversor de Moedas
 
-Este projeto é um consultor de valores das moedas, que obtém dados de conversão de Bitcoin, Dólar e Euro para Real usando a API da AwesomeAPI.
+Este projeto é um consultor de valores das principais moedas, que obtém dados de conversão de Bitcoin, Dólar e Euro para Real usando a API da AwesomeAPI.
 
 ## Funcionalidades
 
